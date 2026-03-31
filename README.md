@@ -172,10 +172,21 @@ Screenshots available in `/proof` folder:
 
 ---
 
-## 🎥 Demo Video
 
-[Watch Demo](#https://drive.google.com/file/d/16K7lai3Fj4LWKvwLrdLmAM-62Jdhpzra/view?usp=drivesdk)
 
+## 🎥 Demo & Live Access
+
+### 🌐 Live Application
+👉 [Open PaddyGuard AI](https://paddyguard-ai-smart-pest-detection-917344682390.us-west1.run.app)
+
+> This live demo allows users to select a field, generate NDVI maps, predict pest risk, and receive actionable alerts.
+
+---
+
+### 🎥 Demo Video
+👉 [Watch Demo](https://drive.google.com/file/d/16K7lai3Fj4LWKvwLrdLmAM-62Jdhpzra/view?usp=drivesdk)
+
+> A short walkthrough demonstrating NDVI analysis, pest prediction, and alert system.
 ---
 
 ## 🧱 Tech Stack
