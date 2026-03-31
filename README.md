@@ -202,6 +202,13 @@ Screenshots available in `/proof` folder:
 * Weather Data APIs
 
 ---
+## 🎥 Demo & Live Access
+
+### 🌐 Live Application
+👉 [Open PaddyGuard AI](https://paddyguard-ai-smart-pest-detection-917344682390.us-west1.run.app)
+
+### 🎥 Demo Video
+👉 [Watch Demo](#)
 
 ## ⚙️ Installation Steps
 
