@@ -161,8 +161,7 @@ Provides:
 
 Screenshots available in `/proof` folder:
 
-![AI Proof](./proof/Screenshot 2026-03-31 153251.png
-)
+![AI Proof](aiproof.png)
 
 ---
 
