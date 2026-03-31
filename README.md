@@ -168,7 +168,7 @@ Screenshots available in `/proof` folder:
 
 ## 🖥 Screenshots
 
-![Screenshot1](./assets/screenshot1.png)
+![Screenshot1](Gemini_Generated_Image_twpw9etwpw9etwpw.png)
 ![Screenshot2](./assets/screenshot2.png)
 
 ---
